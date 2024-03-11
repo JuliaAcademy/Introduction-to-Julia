@@ -1,2 +1,3 @@
-# Introduction-to-Julia
-Learn the language basics in this 10-part course
+# Introduction-to-Julia-Programming-basic-course-
+
+Learn the basics of the Julia programming language with this revised 10-part basic course from JuliaAcademy
